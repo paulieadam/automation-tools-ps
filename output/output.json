@@ -1,0 +1,42 @@
+[
+	{
+		"link": "/url?q=https://sv.wikipedia.org/wiki/Hello_World&sa=U&ved=0ahUKEwiZwOGf8JbOAhVJECwKHcvVDRgQFggUMAA&usg=AFQjCNEtIQJGlBCcZFdaVkL3RRYrk365Yg",
+		"title": "Hello World – Wikipedia"
+	},
+	{
+		"link": "/url?q=https://en.wikipedia.org/wiki/%2522Hello,_World!%2522_program&sa=U&ved=0ahUKEwiZwOGf8JbOAhVJECwKHcvVDRgQFggaMAE&usg=AFQjCNFxhrqP7FDEfkLooqdtT-E-o0NWvg",
+		"title": "\"Hello, World!\" program - Wikipedia, the free encyclopedia"
+	},
+	{
+		"link": "/url?q=http://helloworld.se/&sa=U&ved=0ahUKEwiZwOGf8JbOAhVJECwKHcvVDRgQFgggMAI&usg=AFQjCNEdcc_g3ZdaL5GFsYoYC3-25uYCPg",
+		"title": "Hello World!"
+	},
+	{
+		"link": "/url?q=http://www.learnpython.org/en/Hello,_World!&sa=U&ved=0ahUKEwiZwOGf8JbOAhVJECwKHcvVDRgQFgglMAM&usg=AFQjCNGVfggbFs0r9l8tFrruw7r9vrN5VQ",
+		"title": "Hello, World! - Learn Python - Free Interactive Python Tutorial"
+	},
+	{
+		"link": "/url?q=https://gobyexample.com/hello-world&sa=U&ved=0ahUKEwiZwOGf8JbOAhVJECwKHcvVDRgQFggrMAQ&usg=AFQjCNFXYM5bvBdoGb-0TzuoIfH9u61Rtg",
+		"title": "Go by Example: Hello World"
+	},
+	{
+		"link": "/url?q=https://guides.github.com/activities/hello-world/&sa=U&ved=0ahUKEwiZwOGf8JbOAhVJECwKHcvVDRgQFggxMAU&usg=AFQjCNG7bOWCZtM7ehj1SxOWOxzUP0OTqg",
+		"title": "Hello World · GitHub Guides"
+	},
+	{
+		"link": "/url?q=https://www.gnu.org/fun/jokes/helloworld.html&sa=U&ved=0ahUKEwiZwOGf8JbOAhVJECwKHcvVDRgQFgg4MAY&usg=AFQjCNEujV7ZecQtezcj_Tu6STcKmaTgKA",
+		"title": "Hello World! - GNU Project - Free Software Foundation (FSF)"
+	},
+	{
+		"link": "/url?q=http://groups.engin.umd.umich.edu/CIS/course.des/cis400/c/hworld.html&sa=U&ved=0ahUKEwiZwOGf8JbOAhVJECwKHcvVDRgQFgg9MAc&usg=AFQjCNEnNXOqaArq7kWyUyvPvmhFmN0oZQ",
+		"title": "The C Programming Language: Hello world! Example Program"
+	},
+	{
+		"link": "/url?q=http://www.helloworld.com/&sa=U&ved=0ahUKEwiZwOGf8JbOAhVJECwKHcvVDRgQFghDMAg&usg=AFQjCNHZ2Dbo1Yd01VAHpeU3PSYCsiHJyA",
+		"title": "HelloWorld: Digital, Social, Mobile Marketing"
+	},
+	{
+		"link": "/url?q=https://expressjs.com/en/starter/hello-world.html&sa=U&ved=0ahUKEwiZwOGf8JbOAhVJECwKHcvVDRgQFghJMAk&usg=AFQjCNH22Fq3wau8CPKIoJ4lmSEkI7GjyQ",
+		"title": "Express \"Hello World\" example"
+	}
+]
