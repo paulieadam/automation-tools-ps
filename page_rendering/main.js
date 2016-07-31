@@ -14,6 +14,14 @@ var viewportSizes = config.viewportSizes;
 
 casper.start();
 
+// Stop requests to google analytics
+casper.on('resource.requested', function(requestData, request) {
+    if ((/google-analytics\.com/gi).test(requestData['url'])){
+        console.log('Request to GA. Aborting: ' + requestData['url']);
+        request.abort();
+    }
+});
+
 var counter = 0;
 casper.repeat(viewportSizes.length, function() {
 	var viewportSize = viewportSizes[counter];

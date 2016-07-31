@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/casperjs test ./test/main.js || true",
-    "start": "./node_modules/.bin/casperjs ./network_monitoring/main.js || true"
+    "start": "./node_modules/.bin/casperjs ./page_rendering/main.js || true"
   },
   "author": "",
   "license": "ISC",
